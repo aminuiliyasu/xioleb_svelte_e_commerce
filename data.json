@@ -1,0 +1,26 @@
+{
+    "categories": [
+      { "id": 1, "name": "Electronics", "slug": "/electronics" },
+      { "id": 2, "name": "Clothing", "slug": "/clothing" }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "name": "Laptop",
+        "price": 399999.99,
+        "description": "A high-performance laptop",
+        "image": "/laptop.jpg",
+        "stripe_id": "price_1RIROgRp9I0uKieXiUiNaMBB",
+        "categoryId": 1
+      },
+      {
+        "id": 2,
+        "name": "T-Shirt",
+        "price": 9999,
+        "description": "A comfortable cotton t-shirt",
+        "image": "/t-shirt.jpg",
+        "stripe_id": "price_1RIROgRp9I0uKieXiUiNaMBB",
+        "categoryId": 2
+      }
+    ]
+  }
